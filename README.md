@@ -34,19 +34,32 @@ STEP_Sem-3/
 │       ├── FileExtensionValidator.java
 │       ├── MaskedPhoneNumber.java
 │       └── VowelConsonantCounter.java
-└── Week-4/
+├── Week-4/
+│   ├── Classwork/
+│   │   ├── question_1.java
+│   │   ├── question_2.java
+│   │   ├── question_3.java
+│   │   ├── question_4.java
+│   │   └── question_5.java
+│   └── Practice/
+│       ├── BestTimeToBuyAndSellStock.java
+│       ├── ContainsDuplicate.java
+│       ├── MergeTwoSortedArrays.java
+│       ├── RotateArray.java
+│       └── TwoSum.java
+└── Week-5/
     ├── Classwork/
-    │   ├── question_1.java
-    │   ├── question_2.java
-    │   ├── question_3.java
-    │   ├── question_4.java
-    │   └── question_5.java
-    └── Practice/
-        ├── BestTimeToBuyAndSellStock.java
-        ├── ContainsDuplicate.java
-        ├── MergeTwoSortedArrays.java
-        ├── RotateArray.java
-        └── TwoSum.java
+    │   ├── HackathonScoreCurveBooster.java
+    │   ├── DuplicateTeamNameFinder.java
+    │   ├── TopThreePodiumFinder.java
+    │   ├── HackathonSeatingGridOptimizer.java
+    │   └── PlacementDriveRankingEngine.java
+    └── Assignment/
+        ├── FantasyTeamScoreMultiplier.java
+        ├── DuplicatePlayerPickChecker.java
+        ├── TopPerformerTracker.java
+        ├── MatchDayGridAnalyzer.java
+        └── FantasyLeagueAutoDraft.java
 ```
 
 ---
