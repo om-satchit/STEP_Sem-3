@@ -1,0 +1,64 @@
+# STEP Semester 3 - Java Programming
+
+This repository contains Java solutions for classwork, practice problems, and assignments for STEP Semester 3.
+
+---
+
+## 📁 Repository Structure
+
+```text
+STEP_Sem-3/
+├── Week-1/
+│   ├── Classwork/
+│   │   ├── BMICalculator.java
+│   │   ├── FirstNonRepeating.java
+│   │   ├── PalindromeChecker.java
+│   │   ├── ReverseCustomer.java
+│   │   └── RockPaperScissors.java
+│   └── Assignment/
+│       ├── DuplicateSeats.java
+│       ├── MovieReviewProfiler.java
+│       ├── TrafficSignalStreak.java
+│       ├── TypingAccuracy.java
+│       └── WarehouseInventory.java
+├── Week-2/
+│   ├── Classwork/
+│   │   ├── ATMPinValidator.java
+│   │   ├── LibraryISBNValidator.java
+│   │   ├── ProductInventoryParser.java
+│   │   ├── WordFrequencyReport.java
+│   │   └── WordReversalEncoder.java
+│   └── Practice/
+│       ├── BankTransactionValidator.java
+│       ├── CSVStudentRecordParser.java
+│       ├── FileExtensionValidator.java
+│       ├── MaskedPhoneNumber.java
+│       └── VowelConsonantCounter.java
+└── Week-4/
+    ├── Classwork/
+    │   ├── question_1.java
+    │   ├── question_2.java
+    │   ├── question_3.java
+    │   ├── question_4.java
+    │   └── question_5.java
+    └── Practice/
+        ├── BestTimeToBuyAndSellStock.java
+        ├── ContainsDuplicate.java
+        ├── MergeTwoSortedArrays.java
+        ├── RotateArray.java
+        └── TwoSum.java
+```
+
+---
+
+## 💻 How to Compile and Run
+
+To compile any Java file:
+```bash
+javac path/to/Filename.java
+```
+
+To run the compiled class:
+```bash
+java -cp path/to Filename
+```
