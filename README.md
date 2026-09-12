@@ -47,19 +47,32 @@ STEP_Sem-3/
 │       ├── MergeTwoSortedArrays.java
 │       ├── RotateArray.java
 │       └── TwoSum.java
-└── Week-5/
+├── Week-5/
+│   ├── Classwork/
+│   │   ├── HackathonScoreCurveBooster.java
+│   │   ├── DuplicateTeamNameFinder.java
+│   │   ├── TopThreePodiumFinder.java
+│   │   ├── HackathonSeatingGridOptimizer.java
+│   │   └── PlacementDriveRankingEngine.java
+│   └── Assignment/
+│       ├── FantasyTeamScoreMultiplier.java
+│       ├── DuplicatePlayerPickChecker.java
+│       ├── TopPerformerTracker.java
+│       ├── MatchDayGridAnalyzer.java
+│       └── FantasyLeagueAutoDraft.java
+└── Week-6/
     ├── Classwork/
-    │   ├── HackathonScoreCurveBooster.java
-    │   ├── DuplicateTeamNameFinder.java
-    │   ├── TopThreePodiumFinder.java
-    │   ├── HackathonSeatingGridOptimizer.java
-    │   └── PlacementDriveRankingEngine.java
+    │   ├── StudentPlacementRecordManagement.java
+    │   ├── HostelMessWalletManagement.java
+    │   ├── CourseCreditManagement.java
+    │   ├── LibraryIDCardManagement.java
+    │   └── StudentCollegeManagement.java
     └── Assignment/
-        ├── FantasyTeamScoreMultiplier.java
-        ├── DuplicatePlayerPickChecker.java
-        ├── TopPerformerTracker.java
-        ├── MatchDayGridAnalyzer.java
-        └── FantasyLeagueAutoDraft.java
+        ├── LibraryInventoryManagement.java
+        ├── PayrollSalaryManagement.java
+        ├── EmployeeProfileCreation.java
+        ├── ExamHallTicketManagement.java
+        └── EmployeeCompanyManagement.java
 ```
 
 ---
